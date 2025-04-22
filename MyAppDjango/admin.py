@@ -5,4 +5,3 @@ admin.site.register(PrendaM)
 
 
 
-# Register your models here.
